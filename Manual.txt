@@ -1,1 +1,1 @@
-#fichero de prueba
+#fichero de prueba para la futura generacion de un manual de usuario para la herramienta HATD.
