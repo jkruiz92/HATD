@@ -1,1 +1,2 @@
-#fichero de prueba para la futura generacion de un manual de usuario para la herramienta HATD.
+#fichero de prueba para la futura generacion de un manual de usuario para la herramienta HATD. 
+# se han subido los ficheros
